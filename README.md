@@ -24,7 +24,7 @@ Una aplicación web interactiva desarrollada como parte del programa Oracle ONE 
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Frontend**: HTML5, CSS3, JavaScript vanilla
+- **Frontend**: HTML5, CSS3, JavaScript
 - **Estilos**: CSS Grid, Flexbox, Variables CSS
 - **Fuentes**: Google Fonts (Inter, Merriweather)
 - **Control de versiones**: Git y GitHub
